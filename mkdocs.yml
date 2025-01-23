@@ -1,0 +1,141 @@
+site_name: Mukul Namagiri
+site_url: http://localhost:8000
+use_directory_urls: true
+theme:
+  name: material
+  font:
+    code: Jersey 15
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: deep purple
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep purple
+      accent: deep purple
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to light mode
+  features:
+    - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    # - content.code.select
+    # - content.footnote.tooltips
+    # - content.tabs.link
+    - content.tooltips
+    - header.autohide
+    - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.instant.prefetch
+    # - navigation.instant.progress
+    # - navigation.prune
+    - navigation.sections
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+
+extra:
+  consent:
+    title: Cookie consent
+    description: >-
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/Mukullight
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/mukul-namagiri-434427190
+
+
+# Extensions
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      normalize_issue_symbols: true
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      auto_append:
+        - includes/mkdocs.md
+  - pymdownx.tabbed:
+      alternate_style: true
+      combine_header_slug: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+
+extra_css:
+  - css/neoteroi-mkdocs.css
+
+
+extra_javascript:
+  - https://cdn.jsdelivr.net/npm/eva-hex@latest/dist/eva-hex.min.js
+
+
+theme:
+  name: simple-blog
+  language: en
+  logo: images/bot.jpg
+  favicon: images/bot.jpg
+nav:
+    - Home: index.md
+    - About Me:
+      - Presentation: about_me/me.md
+      - Education:  about_me/education.md
+      - Experience:  about_me/work_exp.md
+      - Technical Skills:  software/skills.md
+    - Projects:
+      - Research: research/research.md
+      - Projects: software/projects.md
+      - Open Source and Blogs: software/software.md
+      - Books: software/books.md
+
+
+
+
+
