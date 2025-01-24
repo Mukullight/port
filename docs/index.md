@@ -125,7 +125,7 @@
       <h3>Experience</h3>
       <p>Work and Technical Experience</p>
     </div>
-    <div class="card" onclick="window.location.href='./about_me/awards/'">
+    <div class="card" onclick="window.location.href='./software/skills/'">
       <img src="images/pgimages/skills.png" alt="More">
       <h3>Technical and Interpersonal Skills </h3>
       <p>Honors/Awards, Volunteering</p>
