@@ -132,6 +132,7 @@
     </div>
   </div>
 
+ 
   <h2>Profile</h2>
   <div class="cards-container">
     <div class="card" onclick="window.location.href='./research/research/'">
@@ -144,12 +145,12 @@
       <h3>Projects</h3>
       <p>Personal Projects</p>
     </div>
-    <div class="card" onclick="window.location.href='./software/book/'">
+    <div class="card" onclick="window.location.href='./software/books/'">
       <img src="images/icons/book2.png" alt="Documentation">
       <h3>Books</h3>
       <p>Books and Resources</p>
     </div>
-    <div class="card" onclick="window.location.href='./software/collaboration/'">
+    <div class="card" onclick="window.location.href='./software/software/'">
       <img src="images/icons/collab.png" alt="Collaboration">
       <h3>Open Source Contributions</h3>
       <p>Community Contributions</p>
