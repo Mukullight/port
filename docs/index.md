@@ -3,8 +3,34 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<div class="sketchfab-embed-wrapper"> <iframe title="Tesla Bot" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/2756c4f07d7c4acb804b1777f10de2ed/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/tesla-bot-2756c4f07d7c4acb804b1777f10de2ed?utm_medium=embed&utm_campaign=share-popup&utm_content=2756c4f07d7c4acb804b1777f10de2ed" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Tesla Bot </a> by <a href="https://sketchfab.com/diegolechugar?utm_medium=embed&utm_campaign=share-popup&utm_content=2756c4f07d7c4acb804b1777f10de2ed" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> diegolechugar </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=2756c4f07d7c4acb804b1777f10de2ed" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+<div class="container my-4">
+    <div class="row justify-content-center">
+      <div class="col-12 col-md-8">
+        <div class="sketchfab-embed-wrapper">
+          <iframe 
+            title="Tesla Bot - Low Poly" 
+            frameborder="0" 
+            allowfullscreen 
+            mozallowfullscreen="true" 
+            webkitallowfullscreen="true" 
+            allow="autoplay; fullscreen; xr-spatial-tracking" 
+            xr-spatial-tracking 
+            execution-while-out-of-viewport 
+            execution-while-not-rendered 
+            web-share 
+            src="https://sketchfab.com/models/b75cc21ee50f4af2a7ae3f2b09ce71ea/embed" 
+            class="w-100" 
+            style="width: 1200px; height: 600px;">
+          </iframe>
+          <p class="text-muted small mt-2">
+            <a href="https://sketchfab.com/3d-models/tesla-bot-low-poly-b75cc21ee50f4af2a7ae3f2b09ce71ea?utm_medium=embed&utm_campaign=share-popup&utm_content=b75cc21ee50f4af2a7ae3f2b09ce71ea" target="_blank" rel="nofollow" class="text-primary fw-bold">Tesla Bot - Low Poly</a> 
+            by <a href="https://sketchfab.com/5th-Dimension?utm_medium=embed&utm_campaign=share-popup&utm_content=b75cc21ee50f4af2a7ae3f2b09ce71ea" target="_blank" rel="nofollow" class="text-primary fw-bold">5th Dimension</a> 
+            on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=b75cc21ee50f4af2a7ae3f2b09ce71ea" target="_blank" rel="nofollow" class="text-primary fw-bold">Sketchfab</a>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
 
 <style>
     /* Specific container styling */
