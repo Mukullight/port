@@ -3,41 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<div class="sketchfab-embed-wrapper" style="width: 100%; height: 500px;">
-        <iframe 
-            title="Tesla Optimus V2" 
-            frameborder="0" 
-            allowfullscreen 
-            mozallowfullscreen="true" 
-            webkitallowfullscreen="true" 
-            allow="autoplay; fullscreen; xr-spatial-tracking" 
-            xr-spatial-tracking 
-            execution-while-out-of-viewport 
-            execution-while-not-rendered 
-            web-share 
-            src="https://sketchfab.com/models/a8955e21c04343cf847cac75d7cbf600/embed"
-            style="width: 100%; height: 100%; border: none;">
-        </iframe>
-        <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A44A;">
-            <a href="https://sketchfab.com/3d-models/tesla-optimus-v2-a8955e21c04343cf847cac75d7cbf600?utm_medium=embed&utm_campaign=share-popup&utm_content=a8955e21c04343cf847cac75d7cbf600" 
-               target="_blank" 
-               rel="nofollow" 
-               style="font-weight: bold; color: #1CAAD9;">
-            </a>
-            <a href="https://sketchfab.com/frezzy3d?utm_medium=embed&utm_campaign=share-popup&utm_content=a8955e21c04343cf847cac75d7cbf600" 
-               target="_blank" 
-               rel="nofollow" 
-               style="font-weight: bold; color: #1CAAD9;">
-            </a> 
-            <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=a8955e21c04343cf847cac75d7cbf600" 
-               target="_blank" 
-               rel="nofollow" 
-               style="font-weight: bold; color: #1CAAD9;">
-            </a>
-        </p>
-    </div>
-<style>
+<div class="sketchfab-embed-wrapper"> <iframe title="Tesla Bot" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/2756c4f07d7c4acb804b1777f10de2ed/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/tesla-bot-2756c4f07d7c4acb804b1777f10de2ed?utm_medium=embed&utm_campaign=share-popup&utm_content=2756c4f07d7c4acb804b1777f10de2ed" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> Tesla Bot </a> by <a href="https://sketchfab.com/diegolechugar?utm_medium=embed&utm_campaign=share-popup&utm_content=2756c4f07d7c4acb804b1777f10de2ed" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;"> diegolechugar </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=2756c4f07d7c4acb804b1777f10de2ed" target="_blank" rel="nofollow" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div><style>
     /* Specific container styling */
     .body {
         max-width: 2000px !important; /* Adjust this value */
